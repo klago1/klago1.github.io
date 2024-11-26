@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: K Lago Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Ken
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - indivisible: "https://indivisible.org"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
